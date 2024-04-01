@@ -1,7 +1,10 @@
 # Changelog
 
 ## Unreleased
+
+## 7.6.0
 * **feature** Added support for watchOS. [#352](https://github.com/matomo-org/matomo-sdk-ios/issues/352)
+* **feature** Added Privacy Manifest. [#448](https://github.com/matomo-org/matomo-sdk-ios/pull/448)
 * **improvement** Increased deployment targets to iOS 11 and macOS 10.13. [#431](https://github.com/matomo-org/matomo-sdk-ios/pull/431) 
 
 ## 7.5.2
